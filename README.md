@@ -1,0 +1,2 @@
+# mindhacker
+lifehacker
